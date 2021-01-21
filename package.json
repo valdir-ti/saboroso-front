@@ -10,7 +10,7 @@
     "axios": "^0.19.2",
     "bootstrap": "3",
     "eslint-loader": "^3.0.3",
-    "immer": "^5.3.6",
+    "immer": "^8.0.1",
     "jquery": "^3.4.1",
     "mdbreact": "^4.25.0",
     "moment": "^2.24.0",
